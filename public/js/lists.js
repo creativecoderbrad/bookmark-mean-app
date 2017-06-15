@@ -1,11 +1,11 @@
 
 // build the lists
 
-var sections = {
-  section {
+var sections = [
+  section = {
 
   }
-}
+]
 
 /* === my thinking ===
 
