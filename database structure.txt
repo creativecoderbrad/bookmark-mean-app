@@ -1,0 +1,22 @@
+
+Var project = [
+{
+       Id: 12354365r,
+       Title: ‘learn dev’,
+       Content: [
+                {
+     		  Id: 2345324788,
+      	          Content: ‘example text 1’
+                },
+                {
+                  Id: 7638564w5,
+                  Content: ‘example text 2’
+                },
+
+       ]
+},
+
+// repeat
+
+]
+ 
